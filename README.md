@@ -55,3 +55,7 @@ This filepath will be added to the master output path noted on the first line.
 Example:
 
 5.6=icons/Test
+
+If the unsticher finds a file with the same name that it is trying to create it will check if the files are the same.
+
+If the files are the same it will do nothing, if they are different then it will override the file.
