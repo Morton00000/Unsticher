@@ -10,6 +10,8 @@ It is expecting them to be in the same folder as the .jar file.
 
 The .png image is expected to be a 16 x 16 set of images.
 
+The resolution of the image does not matter as long as it is divisible by 16.
+
 ## Config
 The config file has several setup options.
 
