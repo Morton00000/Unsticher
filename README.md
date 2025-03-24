@@ -13,9 +13,9 @@ The .png image is expected to be a 16 x 16 set of images.
 ## Config
 The config file has several setup options.
 
-The first line should be "output=/"
+The first line should be "output=/".
 
-You can add a folder path to this but it must end in "/"
+You can add a folder path to this but it must end in "/".
 
 
 Next are the icon locations.
