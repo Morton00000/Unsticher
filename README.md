@@ -48,7 +48,7 @@ Example:
 
 
 ## Output Notes
-The config name location can also be a path then filename to have images go to different locations.
+The config name can also be a filepath then filename to have images go to different locations.
 
 This filepath will be added to the master output path noted on the first line.
 
