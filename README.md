@@ -41,4 +41,15 @@ You can setup an array of images to be exported as one image with "-".
 This will be noted as the upper left location and the lower right location seperated by a comma.
 
 Example:
+
 -3.5,5.6=Testing Long
+
+
+## Output Notes
+The config name location can also be a path then filename to have images go to different locations.
+
+This filepath will be added to the master output path noted on the first line.
+
+Example:
+
+5.6=icons/Test
