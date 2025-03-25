@@ -1,7 +1,7 @@
 # Unsticher
 An image unsticher originaly made for Minecraft.
 
-## Notes
+## How To
 The program is expecting an image in .png format and a text file with extension .config of the same name.
 
 There can be multiple pairs of these files.
@@ -11,6 +11,8 @@ It is expecting them to be in the same folder as the .jar file.
 The .png image is expected to be a 16 x 16 set of images.
 
 The resolution of the image does not matter as long as it is divisible by 16.
+
+The file has no UI and does not show any progress bar when running.
 
 ## Config
 The config file has several setup options.
