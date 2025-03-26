@@ -1,6 +1,10 @@
 # Unstitcher
 An image unsticher originaly made for Minecraft.
 
+This was made a long time ago when Minecraft was moving from texture sheets to individual images per thing.
+
+I am only now uploading it as it may be usfull to others.
+
 ## How To
 The program is expecting an image in .png format and a text file with extension .config of the same name.
 
